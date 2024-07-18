@@ -35,7 +35,7 @@
     animation-name: backcolorchange;
     animation-duration: 8s;
     animation-iteration-count: infinite;
-    /* color: white; */
+     color: white; 
 }
  
 @keyframes backcolorchange{
@@ -111,8 +111,8 @@ h4:hover{
     height: 250px;
 }
 
-/* #link{
+ #link{
 background-color: rgb(3, 38, 126);
 color: white;
-} */
+} 
     
