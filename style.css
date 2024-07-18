@@ -17,11 +17,13 @@
 
 
 
-    /* h1{
+    h1{
         margin: 0;
-         color: white; 
-        background-color: rgb(1, 77, 143); 
-    } */
+          color: white; 
+        /* background-color: rgb(1, 77, 143);  */ 
+    } 
+
+
 
  #flex3 h1{
     width: 800px;
@@ -33,7 +35,7 @@
     animation-name: backcolorchange;
     animation-duration: 8s;
     animation-iteration-count: infinite;
-    color: white;
+    /* color: white; */
 }
  
 @keyframes backcolorchange{
@@ -109,8 +111,8 @@ h4:hover{
     height: 250px;
 }
 
-#link{
+/* #link{
 background-color: rgb(3, 38, 126);
 color: white;
-}
+} */
     
